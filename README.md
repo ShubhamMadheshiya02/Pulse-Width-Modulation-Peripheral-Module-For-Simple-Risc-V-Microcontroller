@@ -50,3 +50,4 @@ This PWM peripheral module is designed in Vivado using Verilog, later on impleme
                      - When `R=1` (timer == duty), resets low.  
                      - When `S=1` (timer == period), sets high.  
                      - Otherwise holds its state.
+![image](https://github.com/user-attachments/assets/b4cdce7a-405b-49c6-89e1-e3a5af32a9ba)
